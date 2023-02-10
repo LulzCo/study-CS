@@ -5,6 +5,5 @@ public class Median {
         System.out.println("dfdsfadsfsad");
         System.out.println("dfdsfadsfsad");
         System.out.println("dfdsfadsfsad");
-        System.out.println("dfdsfadsfsad");
     }
 }
