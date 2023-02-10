@@ -1,5 +1,6 @@
 /dataAlgorithm/.idea
 /dataAlgorithm/.gradle
+/dataAlgorithm/gradle
 /dataAlgorithm/build/
 /dataAlgorithm/build/tmp/
 .DS_Store
